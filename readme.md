@@ -5,13 +5,27 @@
 #### Start the Backend server
 `
 cd backend
-npm install
-npm start
-
 `
+<br>
+`
+npm install
+`
+<br>
+`
+npm start
+`
+<br>
+
+
 #### Start the Frontend 
 `
 cd frontend
+`
+<br>
+`
 npm install
+`
+<br>
+`
 npm run dev
 `
